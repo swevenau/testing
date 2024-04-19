@@ -1,16 +1,16 @@
 :root {
 	/* Theme Colors */
-	--theme-primary: hsl(0, 0%, 0%);
-	--theme-primary-hover: hsl(0, 0%, 20%);
+	--theme-primary: #06b9e8;
+	--theme-primary-hover: #17a3c7;
 	--theme-on-primary: #fff;
 
 	--theme-bg: #fff;
 	--theme-on-bg: #000;
 
-	--theme-surface-1: #f2f2f2;
+	--theme-surface-1: #d9d9d9;
 	--theme-on-surface-1: #000;
 
-	--theme-surface-2: #cce6d0;
+	--theme-surface-2: #cbcbcb;
 	--theme-on-surface-2: #000;
 
 	/* Theme Shapes */
